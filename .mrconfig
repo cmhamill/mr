@@ -1,0 +1,5 @@
+[DEFAULT]
+jobs = 5
+git_gc = git gc "$@"
+
+inlude = cat ~/etc/mr/config.d/*
