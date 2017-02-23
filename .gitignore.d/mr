@@ -1,0 +1,10 @@
+*
+!/etc
+!/etc/mr
+!/etc/mr/available.d
+!/etc/mr/available.d/*
+!/etc/mr/config.d
+!/etc/mr/config.d/mr.vcsh
+!/.gitignore.d
+!/.gitignore.d/mr
+!/.mrconfig
