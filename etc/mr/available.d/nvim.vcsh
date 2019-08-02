@@ -1,2 +1,0 @@
-[$HOME/etc/vcsh/repo.d/nvim.git]
-checkout = vcsh clone git@github.com/cmhamill/vcsh-nvim.git nvim
