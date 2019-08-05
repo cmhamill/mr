@@ -1,0 +1,2 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/gnupg.git]
+checkout = vcsh clone git@github.com:cmhamill/vcsh-gnupg.git gnupg
